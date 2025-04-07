@@ -18,8 +18,8 @@ class Webdownloader < Formula
   end
 
   resource "html2text" do
-    url "https://files.pythonhosted.org/packages/0d/c9/20ccd54d52c843a82616b3f44beef5c501ef35412b0ad240e6623bc84eff/html2text-2024.2.26.tar.gz"
-    sha256 "a9a7731eeead6d4ee9d4b6d8cfba2b0f3fb3212a6f4880c323e2671e9d26484b"
+    url "https://files.pythonhosted.org/packages/6c/f9/033a17d8ea8181aee41f20c74c3b20f1ccbefbbc3f7cd24e3692de99fb25/html2text-2020.1.16.tar.gz"
+    sha256 "e296318e16b059ddb97f7a8a1d6a5c1d7af4544049a01e261731d2d5cc277bbb"
   end
 
   resource "requests" do
